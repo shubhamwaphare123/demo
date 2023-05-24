@@ -1,0 +1,6 @@
+public class demo
+{
+public static void main (string args[]){
+system.out.println("wellcome to github");
+}
+}
